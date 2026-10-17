@@ -1,0 +1,2 @@
+rootProject.name = "QZRPROXY"
+include ':app'
